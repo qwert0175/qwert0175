@@ -1,3 +1,5 @@
+### 개발자 준비중
+
 ![image](https://github.com/qwert0175/qwert0175/assets/145173921/3fe7c3b3-ab12-46f3-8e01-6b6456dcd19e)
 
 # 기술스택
