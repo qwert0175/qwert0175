@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/qwert0175/qwert0175/assets/145173921/3fe7c3b3-ab12-46f3-8e01-6b6456dcd19e)
+
 # 기술스택
 ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
