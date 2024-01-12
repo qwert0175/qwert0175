@@ -7,4 +7,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwert0175)](https://github.com/qwert0175/study.git)
 
 # 이력
-빅데이터 분석가 양성과정 2기(한국품질재단) 수료
+2023.05 ~ 2023.11 빅데이터 분석가 양성과정 2기(한국품질재단) 수료
